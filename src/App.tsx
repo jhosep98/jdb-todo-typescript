@@ -4,7 +4,7 @@ import { TodoApp } from "./components/TodoApp";
 function App() {
   return (
     <>
-      <Header title="to-do App!" />
+      <Header title="jdb to-do" />
       <TodoApp />
     </>
   );
